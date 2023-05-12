@@ -13,7 +13,7 @@
     "guarantee": 14000,
     "eLength": 1,
     "eSalary": 1,
-    "eGuarantee": 0,
+    "eGuarantee": 1,
     "potential": 8,
     "speed": 99,
     "burst": 99,
